@@ -12,11 +12,13 @@ This is the one and only PBE tweaked by Mattthev!
 
 Polaris Bios Editor 3 Pro updated to the latest version 2020! The original bios mod thread on Bitcointalk started by Mattthev. Free version Polaris Bios Editor 1.7.6 and older classic Polaris Bios Editor 1.6.7.
 
-Pro Performance Timings
+Pro Performance Timings:
 + No memory timings shifting. Pro Performance memory timings
-One Click Timing Patcher
+
+One Click Timing Patcher:
 + It recognizes cards, memory types and memory size
-All in 1
+
+All in 1:
 + Timings optimized for ETH and XMR or Universal, you can choose which one you want (available only for some memory types)
 + Timings for 4GB or 8GB cards auto choosing the best timings for your card memory size (available only for some memory types)
 + Detect more types of memory and applies suitable timings (compared to PBE 1.6.7 and 1.7.0), new added support for H5GQ4H24AJ
@@ -26,10 +28,28 @@ All in 1
 + Supports almost all RX cards Polaris and Baffin (RX 460/470/480/560/570/580), (RX550 only few of them, contact me before buy)
 + In next releases more intuitive timings patcher and undervolting
 
+Power Saving Option:
++ New Power saving option! Automatically undervolt memory and core also underclock core
 
 
+Auto OC:
++ Automatic memory overclocking for better hashrate
 
 
+Cryptocurrency Payment:
++ We accept various of cryptocurrency thanks to Shapeshift integration
+
+
+Digital Copy:
++ After payment you will be able to instant download the latest version of PBE Pro
+
+
+Support:
++ Do you have problem with your PBE? Contact me via monerobiosedit@gmail.com. I will try to solve your issue.
+
+
+Free Updates:
++ You can download the latest version when it’s released, no need to buy again
 
 PolarisBiosEditor
 ==================
