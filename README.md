@@ -31,25 +31,52 @@ All in 1:
 Power Saving Option:
 + New Power saving option! Automatically undervolt memory and core also underclock core
 
-
 Auto OC:
 + Automatic memory overclocking for better hashrate
-
 
 Cryptocurrency Payment:
 + We accept various of cryptocurrency thanks to Shapeshift integration
 
-
 Digital Copy:
 + After payment you will be able to instant download the latest version of PBE Pro
-
 
 Support:
 + Do you have problem with your PBE? Contact me via monerobiosedit@gmail.com. I will try to solve your issue.
 
-
 Free Updates:
 + You can download the latest version when it’s released, no need to buy again
+
+PBE 3 PRO 2022
+
+Added UberMix 3.3 and 3.4
+Bug Fixes
+PBE 3 PRO 2020 August
+
+Code cleanup
+PBE 3 PRO 2020 July
+
+Bug Fixes
+PBE 3 PRO 2020
+
+New Samsung memory K4G80325FC
+New device 6FDF AMD Radeon RX 580 2048SP
+PBE 3 PRO 2019 changes and updates
+
+Support for RX 590
+New memory type H5GC8H24AJ
+PBE 3 PRO changes and updates
+
+New Micron, Hynix, Samsung and Elpida timings, better hashrate and stability
+License checking fixes
+Some fixes and bugs (Including Hynix typo)
+New design
+RX 560 detection due to different timings need
+GPU vendor detection (Logo is showing now)
+Tooltips
+If you’ve purchased PBE before 26 Febraury 2018, contact me via e-mail with order ID I have to generate your license key. If you are not sure when you bought it you can try resend your license key to your e-mail.
+Read how to activate your PBE license in FAQ
+
+It recognizes and applies custom performance timings for more memory types (compared to PBE 1.6.7), for example H5GC8H24MJ and H5GQ4H24AJ, timings for this type are also available for ETH or XMR mining, you just simple choose which one you want.
 
 PolarisBiosEditor
 ==================
