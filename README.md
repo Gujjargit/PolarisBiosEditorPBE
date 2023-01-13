@@ -1,14 +1,10 @@
 # PolarisBiosEditorPRO
-PolarisBiosEditor 3 PRO
+# PolarisBiosEditor 3 PRO Buy mining bios with performance timings! https://mining-bios.eu/
 ========================
 ![image](https://user-images.githubusercontent.com/98729987/212358120-3510ccc3-96c6-439b-9bfc-e8194b6f2fbd.png)
-
-# PolarisBiosEditor v1.7.6
-
-## Buy mining bios with performance timings! https://mining-bios.eu/
 **Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
-
 Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
+--------------
 
 If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
 
@@ -27,6 +23,9 @@ works on linux with mono, executable is build against .net 3.5
 one click timing feature should be used with care, it maybe not stable for you
 
 please build the executable yourself or decompile the existing one if you don't trust
+
+Release PolarisBiosEditor
+---------------------------
 ### v1.7.6
 - Fixed Samsung 2
 - Fixed no supported memory found H5GC8H24AJ bug
