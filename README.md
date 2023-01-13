@@ -7,6 +7,82 @@
 + Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
 + Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
 
+Description
+👉 All in one AMD RX Polaris Bios one click editor Pro 🔝⛏🚀
+This is the one and only PBE tweaked by Mattthev!
+
+Polaris Bios Editor 3 Pro updated to the latest version 2020! The original bios mod thread on Bitcointalk started by Mattthev. Free version Polaris Bios Editor 1.7.6 and older classic Polaris Bios Editor 1.6.7
+Polaris-bios-editor.eu
+Pro Performance Timings
+No memory timings shifting. Pro Performance memory timings
+One Click Timing Patcher
+It recognizes cards, memory types and memory size
+All in 1
+Timings optimized for ETH and XMR or Universal, you can choose which one you want (available only for some memory types)
+Timings for 4GB or 8GB cards auto choosing the best timings for your card memory size (available only for some memory types)
+Detect more types of memory and applies suitable timings (compared to PBE 1.6.7 and 1.7.0), new added support for H5GQ4H24AJ
+Automatic undervolting, overclocking, underclocking (power saving option)
+Gives the biggest hashrate boost compared to stock, for the 100% performance still need to manually tweak memory clocks and core voltages, editor cannot predict card quality so it’s impossible to automatically use the top values
+Windows and Linux option, note Linux option only does no undervolting
+Supports almost all RX cards Polaris and Baffin (RX 460/470/480/560/570/580), (RX550 only few of them, contact me before buy)
+In next releases more intuitive timings patcher and undervolting
+Power Saving Option
+New Power saving option! Automatically undervolt memory and core also underclock core
+Auto OC
+Automatic memory overclocking for better hashrate
+Cryptocurrency Payment
+We accept various of cryptocurrency thanks to Shapeshift integration
+Digital Copy
+After payment you will be able to instant download the latest version of PBE Pro
+Support
+Do you have problem with your PBE? Contact me via monerobiosedit@gmail.com. I will try to solve your issue.
+Free Updates
+You can download the latest version when it’s released, no need to buy again
+PBE 3 PRO 2022
+
+Added UberMix 3.3 and 3.4
+Bug Fixes
+PBE 3 PRO 2020 August
+
+Code cleanup
+PBE 3 PRO 2020 July
+
+Bug Fixes
+PBE 3 PRO 2020
+
+New Samsung memory K4G80325FC
+New device 6FDF AMD Radeon RX 580 2048SP
+PBE 3 PRO 2019 changes and updates
+
+Support for RX 590
+New memory type H5GC8H24AJ
+PBE 3 PRO changes and updates
+
+New Micron, Hynix, Samsung and Elpida timings, better hashrate and stability
+License checking fixes
+Some fixes and bugs (Including Hynix typo)
+New design
+RX 560 detection due to different timings need
+GPU vendor detection (Logo is showing now)
+Tooltips
+If you’ve purchased PBE before 26 Febraury 2018, contact me via e-mail with order ID I have to generate your license key. If you are not sure when you bought it you can try resend your license key to your e-mail.
+Read how to activate your PBE license in FAQ
+
+It recognizes and applies custom performance timings for more memory types (compared to PBE 1.6.7), for example H5GC8H24MJ and H5GQ4H24AJ, timings for this type are also available for ETH or XMR mining, you just simple choose which one you want.
+
+
+ 
+
+Auto basic undervolting and memory overclocking via “One Click” button
+
+auto-undervolting
+Tooltips to help you understand what you need
+
+
+
+PolarisBiosEditor
+==================
+
 If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
 
 ### Important: You need to disable SecureBoot / Activate CSM in your
