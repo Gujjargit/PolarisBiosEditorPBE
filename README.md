@@ -3,11 +3,8 @@
 ========================
 ![image](https://user-images.githubusercontent.com/98729987/212358120-3510ccc3-96c6-439b-9bfc-e8194b6f2fbd.png)
 
-Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
---------------------------------
-
-Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
---------------
++ Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
++ Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
 
 If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
 
@@ -15,19 +12,12 @@ If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and
 ### Motherboard UEFI because the modification will make
 ### the cryptographic signature invalid.
 
-VirusTotal Report: https://www.virustotal.com/de/file/da96cd604093c686e8b1488726ae10a43a550aea5aaba0c0f308183b86f340f3/analysis/1505395469/
++ Fork from lojkinKot
++ works on linux with mono, executable is build against .net 3.5
++ one click timing feature should be used with care, it maybe not stable for you
++ please build the executable yourself or decompile the existing one if you don't trust
 
-0/58. If your AV warns you about a virus/trojan, consider it as false positive.
-
-Fork from lojkinKot
-
-works on linux with mono, executable is build against .net 3.5
-
-one click timing feature should be used with care, it maybe not stable for you
-
-please build the executable yourself or decompile the existing one if you don't trust
-
-Release PolarisBiosEditor
+Releases PolarisBiosEditor
 ---------------------------
 ### v1.7.6
 - Fixed Samsung 2
