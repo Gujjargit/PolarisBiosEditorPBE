@@ -1,4 +1,4 @@
-# PolarisBiosEditorPRO
+# PolarisBiosEditorPRO - mining-bios.eu
 
 # PolarisBiosEditor 3 PRO - Buy mining bios with performance timings! 
 ----------------------------
