@@ -1,3 +1,6 @@
+- [ ]  [Download PolarisBiosEditorPRO](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PBE_PRO3.rar)
+- [ ]  [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PolarisBiosEditor-portable.rar)
+
 # PolarisBiosEditorPRO 
 👉 All in one AMD RX Polaris Bios one click editor Pro 🔝⛏🚀
 ----------------------------------------------------------------
@@ -31,5 +34,4 @@ Read how to activate your PBE license in FAQ
 ## [Download Polaris Bios Editor 1.6.7](https://github.com/Gujjargit/PolarisBiosEditor)
 ![image](https://user-images.githubusercontent.com/98729987/212380932-ea5d7b57-423c-49b1-bfa3-831fb17fbceb.png)
 
-- [ ]  [Download PolarisBiosEditorPRO](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PBE_PRO3.rar)
-- [ ]  [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PolarisBiosEditor-portable.rar)
+
